@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508397534 source:e:\university\2ий курс\ДО\lab_do\simplex.cpp
+	"simplex.h"
+	<bits/stdc++.h>
+
+1508397581 e:\university\2ий курс\ДО\lab_do\simplex.h
+	<bits/stdc++.h>
+
+1507983802 source:e:\university\2ий курс\ДО\lab_do\main.cpp
+	<bits/stdc++.h>
+	"simplex.h"
+
